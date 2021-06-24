@@ -1,0 +1,18 @@
+{
+  "name": "emularreactividadjs",
+  "version": "1.0.0",
+  "description": "Emulamos la reactividad de React, Vuejs solo con JavaScript vanilla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "react",
+    "react",
+    "js",
+    "vanilla"
+  ],
+  "author": "Kevin Camargo",
+  "license": "ISC"
+}
